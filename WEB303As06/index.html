@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Michael Jordan Fan Page</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Michael Jordan Fan Page</h1>
+  </header>
+
+  <ul class="accordion">
+    <li>
+      <button class="accordion-control">Early Life</button>
+      <div class="accordion-panel">
+        <p>Michael Jeffrey Jordan was born at Cumberland Hospital in the Fort Greene neighborhood of New York City's
+          Brooklyn borough on February 17, 1963,to bank employee Deloris and equipment supervisor
+          James R. Jordan Sr. He has two older brothers, James R. Jordan Jr. and fellow basketball player Larry
+          Jordan, as well as an older sister named Deloris and a younger sister named Roslyn. James Jr. became
+          command sergeant major of the 35th Signal Brigade of the U.S. Army's XVIII Airborne Corps and retired in
+          2006. In 1968, Jordan moved with his family to Wilmington, North Carolina.</p>
+      </div>
+      <!-- Sources https://en.wikipedia.org/wiki/Michael_Jordan#Early_life -->
+    </li>
+    <li>
+      <button class="accordion-control">Professional career</button>
+      <div class="accordion-panel">
+        <p>The Chicago Bulls selected Jordan with the third overall pick of the 1984 NBA draft after Hakeem Olajuwon
+          (Houston Rockets) and Sam Bowie (Portland Trail Blazers). One of the primary reasons why Jordan was not
+          drafted sooner was because the first two teams were in need of a center. Trail Blazers general manager Stu
+          Inman contended that it was not a matter of drafting a center but more a matter of taking Bowie over Jordan,
+          in part because Portland already had Clyde Drexler, who was a guard with similar skills to Jordan. Citing
+          Bowie's injury-laden college career, ESPN named the Blazers' choice of Bowie as the worst draft pick in North
+          American professional sports history.</p>
+      </div>
+      <!-- Sources https://en.wikipedia.org/wiki/Michael_Jordan#College_career -->
+    </li>
+    <li>
+      <button class="accordion-control">College Career</button>
+      <div class="accordion-panel">
+        <p>As a freshman in coach Dean Smith's team-oriented system, Jordan was named ACC Freshman of the Year after he
+          averaged 13.4 ppg on 53.4% shooting (field goal percentage). He made the game-winning jump shot in the
+          1982 NCAA Championship game against Georgetown, which was led by future NBA rival Patrick Ewing. Jordan
+          later described this shot as the major turning point in his basketball career. During his three
+          seasons with the Tar Heels, he averaged 17.7 ppg on 54.0% shooting and added 5.0 rpg and 1.8 apg.</p>
+      </div>
+      <!-- Sources https://en.wikipedia.org/wiki/Michael_Jordan#Professional_career -->
+    </li>
+  </ul>
+
+  <div class="tabs">
+
+    <ul class="tab-list">
+      <li class="active"><a class="tab-control" href="#tab-1">
+          <h3>Michael Jordan</h3>
+        </a></li>
+      <li><a class="tab-control" href="#tab-2">
+          <h3>Videos</h3>
+        </a></li>
+      <li><a class="tab-control" href="#tab-3">
+          <h3>Family Images</h3>
+        </a></li>
+      <li><a class="tab-control" href="#tab-4">
+          <h3>Quotes</h3>
+        </a></li>
+      <li><a class="tab-control" href="#tab-5">
+          <h3>Books</h3>
+        </a></li>
+    </ul>
+
+    <div class="tab-panel active" id="tab-1">
+      <p>
+        <img src="Michael_Jordan_in_2014.jpg" alt=""
+          srcset="https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg">
+      </p>
+    </div>
+
+    <div class="tab-panel" id="tab-2">
+      <p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MlzL6bT1C2U?si=fO7wa2hLt--K0B5p"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+      </p>
+    </div>
+
+    <div class="tab-panel" id="tab-3">
+      <p>
+        <img src="michael-jordan-with-siblings.jpg" width="560" height="420" alt=""
+          srcset="https://www.interbasket.net/wp-content/uploads/michael-jordan-with-siblings-brothers-Ronnie-Larry-sisters-Deloris-Roslyn-1536x1124.jpg">
+      </p>
+    </div>
+
+    <div class="tab-panel" id="tab-4">
+      <p>“I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take
+        the game winning shot and missed. I've failed over and over and over again in my life. And that is why I
+        succeed.”
+        <strong>― Michael Jordan </strong>
+      </p>
+    </div>
+    <!-- Sources https://www.goodreads.com/author/quotes/16823.Michael_Jordan -->
+
+    <div class="tab-panel" id="tab-5">
+      <p><strong>Books</strong></p>
+      <ul>
+        <li>Michael Jordan: The Life</li>
+        <li>Driven from within (Michael Jordan, 2005)</li>
+        <li>For the Love of the Game : my story</li>
+      </ul> 
+    </div>
+
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
