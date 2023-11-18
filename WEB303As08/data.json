@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Superman",
+        "CharacterName": "Clark Kent",
+        "Abilities": "Super strength, speed, agility, senses, durability, and the power of flight. Heat vision, freeze breath, X-ray vision, and superhuman hearing.",
+        "firstAppearance": "Action Comics #1",
+        "WarBuddy": "Batman",
+        "ReleasedDate":"14-Jun-2013"
+    },
+    {
+        "name": "Batman",
+        "CharacterName": "Bruce Wayne",
+        "Abilities": "Genius-level intellect, peak human physical condition, exceptional martial arts skills, advanced technology, and detective skills.",
+        "firstAppearance": "Detective Comics #27",
+        "WarBuddy": "Superman",
+        "ReleasedDate":"23-Jun-1989"
+    },
+    {
+        "name": "Wonder Woman",
+        "CharacterName": "Diana Prince",
+        "Abilities": "Super strength, speed, agility, reflexes, durability, and the power of flight. Exceptional combat skills, healing factor, and a lasso of truth.",
+        "firstAppearance": "All Star Comics #8",
+        "WarBuddy": "Steve Trevor",
+        "ReleasedDate":"2-Jun-2017"
+    },
+    {
+        "name": "The Flash",
+        "CharacterName": "Barry Allen",
+        "Abilities": "Superhuman speed, agility, reflexes, and endurance. Time travel, the ability to phase through objects, and generate sonic booms.",
+        "firstAppearance": "Showcase #4",
+        "WarBuddy": "Green Arrow",
+        "ReleasedDate":"23-Mar-2018"
+    },
+    {
+        "name": "Green Lantern",
+        "CharacterName": "Hal Jordan",
+        "Abilities": "Power ring: creates constructs of solid light, flight, and force fields. Ability to overcome fear, exceptional willpower, and skill as a pilot.",
+        "firstAppearance": "Showcase #22",
+        "WarBuddy": "Green Arrow",
+        "ReleasedDate":"17-Jun-2011"
+    },
+    {
+        "name": "Aquaman",
+        "CharacterName": "Arthur Curry",
+        "Abilities": "Super strength, speed, agility, reflexes, durability, and the ability to breathe underwater. Telepathic communication with sea creatures and control over water.",
+        "firstAppearance": "More Fun Comics #73",
+        "WarBuddy": "Mera",
+        "ReleasedDate":"21-Dec-2018"
+    },
+    {
+        "name": "Cyborg",
+        "CharacterName": "Victor Stone",
+        "Abilities": "Cybernetic enhancements: Super strength, speed, durability, and the ability to interface with computers. Advanced weaponry and hacking abilities.",
+        "firstAppearance": "DC Comics Presents #26",
+        "WarBuddy": "The Flash",
+        "ReleasedDate":"6-Jul-2018"
+    },
+    {
+        "name": "Green Arrow",
+        "CharacterName": "Oliver Queen",
+        "Abilities": "Exceptional archery skills, martial arts, and detective skills. Wealth and access to advanced technology.",
+        "firstAppearance": "More Fun Comics #73",
+        "WarBuddy": "Black Canary",
+        "ReleasedDate":"2-Oct-2020"
+    }
+]
