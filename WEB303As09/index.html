@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment 9 - Karan Patel</title>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1>Karan's Favorite Avengers Characters</h1>
+
+    <div id="nameSearchContainer">
+        <label for="firstNameSearch">Search by First Name:</label>
+        <input type="text" id="firstNameSearch" placeholder="Enter first name">
+    </div>
+
+    <table id="avengersCharacterTable">
+        <thead>
+            <tr>
+                <th><a href="#" data-sort="firstName">First Name</a></th>
+                <th><a href="#" data-sort="lastName">Last Name</a></th>
+                <th><a href="#" data-sort="charName">Character Name</a></th>
+                <th><a href="#" data-sort="realName">Real Name</a></th>
+                <th><a href="#" data-sort="gender">Gender</a></th>
+                <th><a href="#" data-sort="charType">Character Type</a></th>
+                <th><a href="#" data-sort="birthDate">Date of Birth</a></th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <div id="alphabetFilterButtons">
+        <button class="alphabetFilter" data-filter="A-M">A - M (<span id="filterAMCount"></span>)</button>
+        <button class="alphabetFilter" data-filter="N-Z">N - Z (<span id="filterNZCount"></span>)</button>
+    </div>
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>

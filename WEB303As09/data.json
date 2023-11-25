@@ -1,0 +1,75 @@
+[
+        {
+            "firstName": "Tony",
+            "lastName": "Stark",
+            "characterName": "Iron Man",
+            "realName": "Robert Downey Jr.",
+            "gender": "Male",
+            "characterType": "Superhero",
+            "dob": "1970-04-04"
+        },
+        {
+            "firstName": "Steve",
+            "lastName": "Rogers",
+            "characterName": "Captain America",
+            "realName": "Chris Evans",
+            "gender": "Male",
+            "characterType": "Superhero",
+            "dob": "1981-06-13"
+        },
+        {
+            "firstName": "Natasha",
+            "lastName": "Romanoff",
+            "characterName": "Black Widow",
+            "realName": "Scarlett Johansson",
+            "gender": "Female",
+            "characterType": "Superhero",
+            "dob": "1984-11-22"
+        },
+        {
+            "firstName": "Bruce",
+            "lastName": "Banner",
+            "characterName": "Hulk",
+            "realName": "Mark Ruffalo",
+            "gender": "Male",
+            "characterType": "Superhero",
+            "dob": "1967-11-22"
+        },
+        {
+            "firstName": "Thor",
+            "lastName": "Odinson",
+            "characterName": "Thor",
+            "realName": "Chris Hemsworth",
+            "gender": "Male",
+            "characterType": "Superhero",
+            "dob": "1983-08-11"
+        },
+        {
+            "firstName": "Clint",
+            "lastName": "Barton",
+            "characterName": "Hawkeye",
+            "realName": "Jeremy Renner",
+            "gender": "Male",
+            "characterType": "Superhero",
+            "dob": "1971-01-07"
+        },
+        {
+            "firstName": "Wanda",
+            "lastName": "Maximoff",
+            "characterName": "Scarlet Witch",
+            "realName": "Elizabeth Olsen",
+            "gender": "Female",
+            "characterType": "Superhero",
+            "dob": "1989-02-16"
+        },
+        {
+            "firstName": "Pietro",
+            "lastName": "Maximoff",
+            "characterName": "Quicksilver",
+            "realName": "Aaron Taylor-Johnson",
+            "gender": "Male",
+            "characterType": "Superhero",
+            "dob": "1990-06-13"
+        }
+    ]
+
